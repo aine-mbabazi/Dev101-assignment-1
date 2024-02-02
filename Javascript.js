@@ -1,0 +1,1 @@
+print("Java is a programming language")
